@@ -1,0 +1,21 @@
+{
+  "name": "hem",
+  "version": "1.0.0",
+  "description": "Mock server for http errors",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "httpErrors",
+    "errors",
+    "http",
+    "mock"
+  ],
+  "author": "Benjamin Cavy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.14.0"
+  }
+}
