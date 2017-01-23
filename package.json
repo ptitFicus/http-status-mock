@@ -1,5 +1,5 @@
 {
-  "name": "hem",
+  "name": "http-status-mock",
   "version": "1.0.0",
   "description": "Mock server for http errors",
   "main": "index.js",
@@ -8,10 +8,10 @@
     "test": "mocha \"src/**/*.spec.js\""
   },
   "keywords": [
-    "httpErrors",
     "errors",
     "http",
-    "mock"
+    "mock",
+    "status"
   ],
   "author": "Benjamin Cavy",
   "license": "MIT",
