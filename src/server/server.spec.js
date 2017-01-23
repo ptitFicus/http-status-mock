@@ -12,7 +12,7 @@ before(() => {
 })
 
 describe('Every status is present', (done) => {
-  it('An endpoint exists for each status that returns the expected statuts in the response', () => {
+  it('Every endpoint exists and returns correct status', () => {
     const codes = server.codes
     codes.forEach(code => {
       const options = {

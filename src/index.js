@@ -1,4 +1,4 @@
-const serverActions = require('./server')
+const serverActions = require('./server/server')
 
 module.exports = {
   startServer: serverActions.startServer,

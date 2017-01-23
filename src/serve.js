@@ -1,4 +1,4 @@
-const serverActions = require('./server')
+const serverActions = require('./index')
 
 const port = process.argv[2] || 3000
 

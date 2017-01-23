@@ -4,7 +4,7 @@
   "description": "Mock server for http errors",
   "main": "index.js",
   "scripts": {
-    "start": "node src/demo.js",
+    "start": "node src/serve.js",
     "test": "mocha \"src/**/*.spec.js\""
   },
   "keywords": [
