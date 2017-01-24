@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/ptitFicus/http-status-mock.svg?branch=master)](https://travis-ci.org/ptitFicus/http-status-mock)
+[![npm version](https://badge.fury.io/js/http-status-mock.svg)](https://badge.fury.io/js/http-status-mock)
 
 # HTTP-STATUS-MOCK
 Server that exposes an endpoint for each HTTP status code.
