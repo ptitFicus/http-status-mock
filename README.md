@@ -17,7 +17,7 @@ This library exposes two methods `startServer` and `stopServer` that allow to st
 This is usefull when using this projet for unit tests, for instance using mocha :
 
 ```js
-import { startServer, stopServer } from 'http-status-mock
+import { startServer, stopServer } from 'http-status-mock'
 
 
 let mockServer
